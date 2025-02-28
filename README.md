@@ -1,4 +1,4 @@
-<h1 align="center"><img height="30" width="30" src="./assets/image/Hi.gif"/> 一═⌊✪⌋Sr. Blockchain & Full Stack Dev⌊✪⌋═一
+<h1 align="center"><img height="30" width="30" src="./assets/image/Hi.gif"/> 一═⌊✪⌋Sr. Full Stack Dev⌊✪⌋═一
 </h1>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=1000&lines=👋+Full+Stack+Developer+Senior+Blockchain+Engineer;"> -->
 
